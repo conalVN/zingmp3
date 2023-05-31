@@ -1,0 +1,12 @@
+export { default as Layout } from "./Layout";
+export { default as Home } from "./Home";
+export { default as Album } from "./Album";
+export { default as Search } from "./Search";
+export { default as Singer } from "./Singer";
+export { default as ZingChart } from "./ZingChart";
+export { default as Radio } from "./Radio";
+export { default as Follow } from "./Follow";
+export { default as Personal } from "./Personal";
+export { default as WeekRank } from "./WeekRank";
+export { default as RankNewSong } from "./RankNewSong";
+export { default as Login } from "./Login";
